@@ -58,6 +58,7 @@ Asia  & Oceania had slower delivery times (10+ days avg.), indicating possible i
 Major causes: Stock shortages, last-mile delivery issues, and poor route optimization.
 
 ✅ **Details and Pictures of Sales Persons:** Data along with pictures of the sales person have been recorded to keep a record of the number of Completed , Active and Returned Shipments done by the person.
+
 ![image](https://github.com/user-attachments/assets/2b621871-fe6a-46a2-8f46-27087f70cac5)
 
 
